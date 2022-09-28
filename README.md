@@ -5,9 +5,9 @@ Todos os códigos e subpastas contém uma descrição do enunciado do desafio pa
 
 Subpastas e Arquivos/Desafios do repositório:
  - Desafios Iniciais:
-    *  **As Duas Torres**;
-    *  **Cachorros-Quentes**;
-    *  **Cálculo de viagem**
+    *  [**As Duas Torres**](https://github.com/GeffyB/desafios-python-DIO/blob/main/Desafios%20Iniciais%20Py/desafio_as_duas_torres.py);
+    *  [**Cachorros-Quentes**](https://github.com/GeffyB/desafios-python-DIO/blob/main/Desafios%20Iniciais%20Py/desafio_cachorros_quentes.py);
+    *  [**Cálculo de viagem**](https://github.com/GeffyB/desafios-python-DIO/blob/main/Desafios%20Iniciais%20Py/desafio_calculo_de_viagem.py)
  
  - Desafios Intermediários:
     
