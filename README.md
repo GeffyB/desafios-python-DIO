@@ -10,4 +10,8 @@ Subpastas e Arquivos/Desafios do repositório:
     *  [**Cálculo de viagem**](https://github.com/GeffyB/desafios-python-DIO/blob/main/Desafios%20Iniciais%20Py/desafio_calculo_de_viagem.py)
  
  - Desafios Intermediários:
+    *  [**Alfabeto**](https://github.com/GeffyB/desafios-python-DIO/blob/main/DesafiosIntermediariosPy/desafio_alfabeto.py);
+    *  [**Papagaio Poliglota**](https://github.com/GeffyB/desafios-python-DIO/blob/main/DesafiosIntermediariosPy/desafio_papagaio_poliglota.py);
+    *  [**Aumento Salarial**](https://github.com/GeffyB/desafios-python-DIO/blob/main/DesafiosIntermediariosPy/desafio_aumento_salarial.py);
+    *  [**Aumento Salarial V2**](https://github.com/GeffyB/desafios-python-DIO/blob/main/DesafiosIntermediariosPy/desafio_aumento_salarial_v2.py)
     
